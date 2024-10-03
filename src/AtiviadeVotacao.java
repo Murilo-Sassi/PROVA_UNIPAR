@@ -4,7 +4,7 @@ public class AtiviadeVotacao {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+//
         int votar = 0;
         int num = 0;
         int opcao = 0;

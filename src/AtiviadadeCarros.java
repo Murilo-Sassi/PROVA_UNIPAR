@@ -4,7 +4,7 @@ public class AtiviadadeCarros {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+//
         String[] nomes  = new String[10];
 
         int [] valores = new int [10];
